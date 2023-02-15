@@ -1,0 +1,17 @@
+<layer>
+  <name>hidro_massadagua</name>
+  <id>LayerInfoImpl-29e54383:184e75120d7:-7fe5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-29e54383:184e75120d7:-7fe6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-12-06 17:09:50.948 UTC</dateCreated>
+  <dateModified>2023-02-15 11:54:30.243 UTC</dateModified>
+</layer>
